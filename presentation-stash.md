@@ -11,5 +11,8 @@
 ## Erin
 * Ruby Fundamentals
 
+## Mary-Katherine
+* Intro to Git
+
 ## All
 * Intro to Ruby/Rails
