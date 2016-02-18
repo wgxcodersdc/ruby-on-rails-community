@@ -13,6 +13,7 @@
 
 ## Mary-Katherine
 * Intro to Git
+* Write Now, Abstract Later: POODR in Real Life (<30 min)
 
 ## All
 * Intro to Ruby/Rails
