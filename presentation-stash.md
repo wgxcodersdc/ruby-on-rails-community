@@ -1,7 +1,7 @@
 #List of ready presentations by speaker
 
 ## Katherine
-* MVC in Rails
+* [MVC in Rails](https://www.slideshare.net/secret/lk33Pi8rBgz8Pz)
 * Databases and Active Record
 * Getting Value Out of Conferences (needs adjustment)
 * Faking Data in Ruby (lightning talk)
