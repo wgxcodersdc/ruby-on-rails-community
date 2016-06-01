@@ -12,6 +12,7 @@ This is a checklist of what every lead should know/have access to for every Ruby
 * Add as attendee for Google Calendar events
 * Add to Trello
 * Make an organizer on Meetup
+* WWCDC GitHub Ruby on Rails team
 
 ### Publicity
 Announce on:
