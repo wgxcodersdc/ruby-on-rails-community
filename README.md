@@ -15,10 +15,10 @@ This is a space where women (including trans and nonbinary folks) can come toget
 
 Every regular meetup will have the following format:
 
-6:30pm - Setup and start working
-7:00pm - Quick Introductions
-7:15pm - Talk (if scheduled)
-8:15 - 8:30pm - Wrap Up
+* 6:30pm - Setup and start working
+* 7:00pm - Quick Introductions 
+* 7:15pm - Talk (if scheduled)
+* 8:15 - 8:30pm - Wrap Up 
 
 We want a majority of the night to be open for people to code and learn. If you are a first timer to coding or ROR we have suggested courses you can follow and encourage you to ask lots and lots of questions. Note that the first week of the month is especially for "first-timers". We will focus on providing extra support to those new to coding.
 
@@ -39,11 +39,11 @@ We encourage you to attend the group, particularly on open lab or hack nights. Y
 
 ###Lightning Talk Possible Topics
 
-Present an app you're working on
-MVC
-Rails vs. Django (or any other framework)
-Ruby vs. any other language
-Networking/Internet Technologies
+* Present an app you're working on
+* MVC
+* Rails vs. Django (or any other framework)
+* Ruby vs. any other language
+* Networking/Internet Technologies
 
 ##What resources do you suggest?
 
