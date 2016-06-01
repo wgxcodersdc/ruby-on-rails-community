@@ -1,4 +1,4 @@
-# Welcome to the WWC Ruby on Rails Wednesday Night Study Group!
+# Welcome to the WWC Ruby on Rails Wednesday Night Group!
 
 ![Ruby On Rails Icon](http://files.softicons.com/download/application-icons/ruby-programming-icons-by-ahmad-galal/png/48/RubyOnRails.png)
 ![Ruby On Rails Icon](http://files.softicons.com/download/application-icons/ruby-programming-icons-by-ahmad-galal/png/48/RubyOnRails.png)
