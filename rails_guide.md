@@ -105,6 +105,8 @@ If you want a great introdution to Computer Science and what programming is watc
   * Testing based approach to learning Ruby (I really like this guide because it teaches you test based development).  Works best if you do not look to closely at the error messages because they give away the answer.
 * [Learn Ruby the Hard Way](http://learnrubythehardway.org/book/)
   * Go through the exercises 
+* [Ruby in 100 Minutes](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html)
+ * This takes you from introductory concepts like creating variables all the way to objects and attributes in 100 minutes.
 * [Ruby Algorithms](https://github.com/kdmcclin/ruby-algorithms)
   * This repository is a work in progress but contains a range of algorithms that you might find helpful.
 
