@@ -2,7 +2,7 @@
 
 ## Katherine
 * [MVC in Rails](https://www.slideshare.net/secret/lk33Pi8rBgz8Pz)
-* Databases and Active Record
+* [Databases and Active Record](http://www.katherine.tech/active-record/#/)
 * Getting Value Out of Conferences (needs adjustment)
 * Faking Data in Ruby (lightning talk)
 * Rails 3 vs Rails 4
