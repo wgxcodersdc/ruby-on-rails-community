@@ -1,4 +1,4 @@
-#List of ready presentations by speaker
+# List of ready presentations by speaker
 
 ## Katherine
 * [MVC in Rails](https://www.slideshare.net/secret/lk33Pi8rBgz8Pz)
