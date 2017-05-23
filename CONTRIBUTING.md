@@ -1,4 +1,4 @@
-#Contributing to this repository
+# Contributing to this repository
 
 Women Who Code DC gladly accepts additions to this repository! Here are the steps on how to get started with contributions:
 
