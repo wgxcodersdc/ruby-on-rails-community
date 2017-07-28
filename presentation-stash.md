@@ -17,5 +17,8 @@
 * [Using NASA's APOD API to Build a Rails App](https://emkaydeum.wordpress.com/2016/04/28/tutorial-build-a-rails-app-using-the-nasa-astronomy-photo-of-the-day-api/)
 * [RailsConf 2017 Recap: Highlights, Talks, and How to Get the Most Out of Tech Confs](https://docs.google.com/presentation/d/1T7JJgEsKK2TnwKs9lNpbCA_r3uUfyUqR5h7KWw3j-IY/edit?usp=sharing)
 
+## Tingting
+* [CRUD in Rails](http://slides.com/tingtingwang/crud-rails#/)
+
 ## All
 * Intro to Ruby/Rails
